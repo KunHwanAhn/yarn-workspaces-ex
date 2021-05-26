@@ -11,7 +11,7 @@
   "dependencies": {
     "@yarn-workspaces-ex/common": "*",
     "core-js": "^3.6.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "vue": "^2.6.11"
   },
   "devDependencies": {
